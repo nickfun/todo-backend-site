@@ -392,9 +392,10 @@
   description:
     The <a href="http://doc.akka.io/docs/akka/current/scala/http/index.html">akka-http</a>
     framework. The <a href="http://www.scala-lang.org/">Scala</a> language. Swagger to
-    specify the API and <a href="https://www.github.com/twilio/guardrail">Twilio Guardrails</a> to generate the code.
+    specify the API and <a href="https://github.com/guardrail-dev/guardrail">the Guardrail library</a> to generate the a lot of 
+    the code and enforce the API contract.
   sourcecode_url: https://github.com/nickfun/learning-guardrail
-  live_url: https://todo-backend-guardrail.herokuapp.com/todos
+  live_url: https://todo-backend-guardrail.apps.dualscar.com/todos
   tags:
     - scala
     - akka
